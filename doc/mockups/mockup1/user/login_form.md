@@ -1,8 +1,12 @@
 UI: Login form
 --------------
 
-- Login
-- Password
+[Error message placeholder]
+
+- Login [text field]
+- Password [text field]
+
+"Login" [button]
 
 Other login methods:
 
