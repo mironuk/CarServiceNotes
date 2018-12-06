@@ -6,6 +6,7 @@
         (см. https://github.com/mironuk/CarServiceNotes/tree/master/doc/testing/check-lists)
 
     - Изучила возможные программы для учета тест кейсов. Варианты: Excel, Word, TestRail, TestLink
+
 План
 ====
 Всем:
