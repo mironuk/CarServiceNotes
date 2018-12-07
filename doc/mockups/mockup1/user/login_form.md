@@ -1,14 +1,15 @@
 ## UI: Login form
 
-{ Error message placeholder }
+    { Error message placeholder }
 
-Login (text field)
+<pre>
+Login      (text field)
+Password   (text field)
 
-Password (text field)
+/ <b>Log in</b> / (button)
+</pre>
 
-/ Log in / (button)
-
---------------
+---
 
 Other login methods:
 
