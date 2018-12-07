@@ -1,5 +1,7 @@
 ## NEW / UPDATE Service Item (title)
 
+    { Error message placeholder }
+
 <pre>
 Car<b>*</b>               (dropdown?) (title)
 Service date<b>*</b>      (calendar control)
