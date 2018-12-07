@@ -1,18 +1,17 @@
 ## UI: Registration Form
 
-{ Error message placeholder }
+    { Error message placeholder }
 
-E-mail (text field)
-
-Login (text field)
-
-Password (password text field)
-
+<pre>
+E-mail          (text field)
+Login           (text field)
+Password        (password text field)
 Repeat password (password text field)
 
 / reCaptcha /
 
-/ Register / (button)
+/ <b>Register</b> /    (button)
+</pre>
 
 ## Flow:
 
