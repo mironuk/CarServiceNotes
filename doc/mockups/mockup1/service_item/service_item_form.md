@@ -1,21 +1,17 @@
 ## NEW / UPDATE Service Item (title)
 
-<code>
-Car                 (dropdown?) (title)
+<pre>
+Car<b>*</b>               (dropdown?) (title)
+Service date<b>*</b>      (calendar control)
+Service company    (text field)
+Location           (text field)
+Short description<b>*</b> (text field)
+Description        (text area)
+Price              (text field)
+Currency           (dropdown)
+/ <b>Add</b> / <b>Update</b> /   (button)
+</pre>
 
-Service date:       (calendar control)
+---
 
-Service company:    (text field)
-
-Location:           (text field)
-
-Short description:  (text field)
-
-Description:        (text area)
-
-Price:              (text field)
-
-Currency:           (dropdown)
-
-/ Add / Update /    (button)
-</code>
+<b>*</b> Fields marked with a star are required.
