@@ -1,12 +1,15 @@
 UI: Login form
 --------------
 
-[Error message placeholder]
+{ Error message placeholder }
 
-- Login [text field]
-- Password [text field]
+Login (text field)
 
-"Login" [button]
+Password (text field)
+
+/ Login / (button)
+
+--------------
 
 Other login methods:
 
@@ -14,5 +17,6 @@ Other login methods:
 
 Flow:
 ---------------
+
 - Successful login (redirect to personal home page)
 - Invalid login (red color)
