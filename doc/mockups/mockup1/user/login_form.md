@@ -1,5 +1,4 @@
-UI: Login form
---------------
+## UI: Login form
 
 { Error message placeholder }
 
@@ -7,7 +6,7 @@ Login (text field)
 
 Password (text field)
 
-/ Login / (button)
+/ Log in / (button)
 
 --------------
 
@@ -15,8 +14,7 @@ Other login methods:
 
 - via google
 
-Flow:
----------------
+## Flow:
 
 - Successful login (redirect to personal home page)
 - Invalid login (red color)
