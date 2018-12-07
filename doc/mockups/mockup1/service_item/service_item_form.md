@@ -9,6 +9,7 @@ Short description<b>*</b> (text field)
 Description        (text area)
 Price              (text field)
 Currency           (dropdown)
+
 / <b>Add</b> / <b>Update</b> /   (button)
 </pre>
 
