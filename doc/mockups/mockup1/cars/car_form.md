@@ -1,4 +1,4 @@
-## NEW/UPDATE CAR (title)
+## NEW / UPDATE CAR (title)
 
 Nick    (text field)
 
