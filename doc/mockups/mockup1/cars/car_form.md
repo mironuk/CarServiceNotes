@@ -1,19 +1,21 @@
 ## NEW / UPDATE CAR (title)
 
-Nick    (text field)
+<pre>
+Nick              (text field)
 
-VIN     (text field)
+VIN               (text field)
 
-Make*   (text field)
+Make<b>*</b>             (text field)
 
-Model*  (text field)
+Model<b>*</b>            (text field)
 
-Year    (text field)
+Year              (text field)
 
-Description (text area)
+Description       (text area)
 
-/ Save / Update / (button)
+/ <b>Save</b> / <b>Update</b> / (button)
+</pre>
 
 ---
 
-\* Fields marked with a star are required.
+<b>\*</b> Fields marked with a star are required.
