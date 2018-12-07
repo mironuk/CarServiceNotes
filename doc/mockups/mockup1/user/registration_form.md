@@ -1,14 +1,19 @@
-UI: Registration Form
------------------
+## UI: Registration Form
 
-- Username
-- E-mail
-- Password
-- Repeat password
+{ Error message placeholder }
 
-<reCaptcha>
+E-mail (text field)
 
+Login (text field)
 
-Flow:
-----------------------
-Upon submission an email is sent to the user to confirm account.
+Password (password text field)
+
+Repeat password (password text field)
+
+/ reCaptcha /
+
+/ Register / (button)
+
+## Flow:
+
+- Upon submission an email is sent to the user to confirm account.
