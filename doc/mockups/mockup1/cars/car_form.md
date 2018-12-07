@@ -1,5 +1,7 @@
 ## NEW / UPDATE CAR (title)
 
+    { Error message placeholder }
+
 <pre>
 Nickname          (text field)
 VIN               (text field)
