@@ -7,3 +7,9 @@ backend security - only for current user - all data is private
 table component?
 
 domain param?
+
+~page/button titles - in .ts~
+
+save/update entity - to read
+
+jacoco - to install
