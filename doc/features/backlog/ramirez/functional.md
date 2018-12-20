@@ -1,8 +1,9 @@
-<pre>
 ui security - view, edit, delete - for current user only - yes
-backend validation
-backend security - only for current user
+
+backend security - only for current user - all data is private
+
+~backend validation~
+
 table component?
-all data is private
+
 domain param?
-</pre>
