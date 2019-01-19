@@ -1,6 +1,6 @@
 # Hibernate to test:
 
-- check insert and delete sql
+- ~check insert, update and delete sql~
 
 - lazy and join selects for one entity
 
