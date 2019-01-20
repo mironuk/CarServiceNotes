@@ -66,3 +66,9 @@
 - entity vs dto
 
 - hashCode / equals
+
+- dirty checking
+
+- composite keys
+
+- Id generation strategies
