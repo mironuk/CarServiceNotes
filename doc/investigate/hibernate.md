@@ -52,3 +52,17 @@
         where t.tag_id = :tagId
     </entry>
 </pre>
+
+- l1 / l2 cache
+
+- criteria API
+
+- optimistic / pessimistic locking
+
+- entity states
+
+- transactions
+
+- entity vs dto
+
+- hashCode / equals
