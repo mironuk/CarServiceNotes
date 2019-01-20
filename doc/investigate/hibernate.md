@@ -72,3 +72,5 @@
 - composite keys
 
 - Id generation strategies
+
+- JpaRepository features (for example findTop2ByNameOrderByVersionDesc(String name))
